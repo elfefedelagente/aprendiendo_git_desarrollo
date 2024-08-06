@@ -21,8 +21,7 @@ dale que tenemos chamba en USA.
 
 HOLA FEDE SOY YO 
 
-<<<<<<< HEAD
-
+aa
 
 
 
@@ -50,6 +49,4 @@ AGUANTE BOCAAAAAA!!!!!!
 
 
 END
-=======
-aa
->>>>>>> a529498c31491b2c88c91d2e837e8b1c99de7e1d
+
